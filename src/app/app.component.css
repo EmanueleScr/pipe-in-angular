@@ -1,0 +1,6 @@
+.col-6 {
+        display: flex;
+}
+.card-group {
+        flex: 1;
+}
